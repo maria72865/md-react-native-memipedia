@@ -1,0 +1,25 @@
+{
+  "files": {
+    "app.js": "/maria72865/md-react-native-memipedia.git/static/js/app.872f36da.chunk.js",
+    "app.js.map": "/maria72865/md-react-native-memipedia.git/static/js/app.872f36da.chunk.js.map",
+    "runtime~app.js": "/maria72865/md-react-native-memipedia.git/static/js/runtime~app.a33b970a.js",
+    "runtime~app.js.map": "/maria72865/md-react-native-memipedia.git/static/js/runtime~app.a33b970a.js.map",
+    "static/js/2.23d671ea.chunk.js": "/maria72865/md-react-native-memipedia.git/static/js/2.23d671ea.chunk.js",
+    "static/js/2.23d671ea.chunk.js.map": "/maria72865/md-react-native-memipedia.git/static/js/2.23d671ea.chunk.js.map",
+    "fonts/Ionicons.ttf": "/maria72865/md-react-native-memipedia.git/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/maria72865/md-react-native-memipedia.git/./fonts/MaterialCommunityIcons.ttf",
+    "favicon-16.png": "/maria72865/md-react-native-memipedia.git/favicon-16.png",
+    "favicon-32.png": "/maria72865/md-react-native-memipedia.git/favicon-32.png",
+    "favicon.ico": "/maria72865/md-react-native-memipedia.git/favicon.ico",
+    "index.html": "/maria72865/md-react-native-memipedia.git/index.html",
+    "manifest.json": "/maria72865/md-react-native-memipedia.git/manifest.json",
+    "serve.json": "/maria72865/md-react-native-memipedia.git/serve.json",
+    "static/js/2.23d671ea.chunk.js.LICENSE.txt": "/maria72865/md-react-native-memipedia.git/static/js/2.23d671ea.chunk.js.LICENSE.txt",
+    "static/media/memipedia-logo.png": "/maria72865/md-react-native-memipedia.git/static/media/memipedia-logo.8791171f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.a33b970a.js",
+    "static/js/2.23d671ea.chunk.js",
+    "static/js/app.872f36da.chunk.js"
+  ]
+}
